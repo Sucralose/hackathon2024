@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47023462156",
+    "project_id": "yad-nosefet",
+    "storage_bucket": "yad-nosefet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47023462156:android:46aafcabec3014ef899b29",
+        "android_client_info": {
+          "package_name": "com.example.extrahand2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeYEE3iH5d673zSJ-BwKZFgNsCdP9Ewq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

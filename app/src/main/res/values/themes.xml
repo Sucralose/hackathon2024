@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExtraHand2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#4D86CEDC</item> -->
+    </style>
+
+    <style name="Theme.ExtraHand2" parent="Base.Theme.ExtraHand2" />
+</resources>

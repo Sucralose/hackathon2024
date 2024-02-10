@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#7786DC92</color>
+    <color name="primary_light">#00FF59</color>
+    <color name="primary_dark">#1F7A00</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <color name="input_background">#ECECEC</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="received_message_background">#5D80D5</color>
+    <color name="sent_message_background">#7786DC92</color>
+    <color name="send_button">#ADDD7C</color>
+    <color name="black">#FF000000</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="blue">#3F51B5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="green">#00FF00</color>
+    <color name="red">#FF0000</color>
+    <color name="colorTitle">#A48EC0</color>
+</resources>
